@@ -1,0 +1,6 @@
+
+IIoT Voltage Monitoring System using ESP32, Blynk Cloud, and I2C LCD. 
+The system reads voltage values from two voltage sensors connected to ESP32 analog pins. 
+Measured values are displayed on a 16x2 LCD and transmitted to the Blynk IoT platform for 
+remote monitoring and visualization. This solution can be used for industrial power monitoring, 
+battery systems, and smart electrical infrastructure.

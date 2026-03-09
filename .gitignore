@@ -1,0 +1,19 @@
+
+# Arduino / ESP32
+*.bin
+*.hex
+*.elf
+
+# Python
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
